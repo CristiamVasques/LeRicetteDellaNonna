@@ -2,7 +2,6 @@
 
 **Ingredientes**
 
-• 1 pacote de massa para lasanha pré-cozida;
 • 1 kg de tomates frescos e maduros
 • 1 cebola roxa
 • Azeite extra virgem italiano
@@ -33,5 +32,4 @@ Acrescente as folhas de manjericão.
 A cebola roxa poderá ser substituída pela branca.
 Não faça o molho muito denso e não exagere no sal.
 Não utilize o liquidificador para não deixar o molho cor rosa e espumoso.
-
 
