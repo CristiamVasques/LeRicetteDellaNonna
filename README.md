@@ -6,7 +6,7 @@ Inspirado por uma aula super interessante do professor [Otávio Reis Perkles](ht
 
 * [**Lasagna della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/LasagnaDellaNonna.md):yum:
 
-* [**Lasagna della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/SalsaDellaNonna.md):tomato:
+* [**Salsa della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/SalsaDellaNonna.md):tomato:
 
   
 
