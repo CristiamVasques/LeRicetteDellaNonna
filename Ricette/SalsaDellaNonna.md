@@ -2,11 +2,11 @@
 
 **Ingredientes**
 
-• 1 kg de tomates frescos e maduros
-• 1 cebola roxa
-• Azeite extra virgem italiano
-• Folhas de Manjericão
-• Água
+- 1 kg de tomates frescos e maduros;
+- 1 cebola roxa;
+- Azeite extra virgem italiano;
+- Folhas de Manjericão;
+- Água.
 
 **Modo de preparo**
 

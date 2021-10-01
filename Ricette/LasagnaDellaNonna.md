@@ -2,17 +2,17 @@
 
 **Ingredientes**
 
-• 1 pacote de massa para lasanha pré-cozida;
-• 500 g de queijo muçarela;
-• 500 g de presunto fatiado;
-• 500 ml de molho de tomates.
+- 1 pacote de massa para lasanha pré-cozida;
+- 500 g de queijo muçarela;
+- 500 g de presunto fatiado;
+- 500 ml de molho de tomates.
 
 **Leite aromatizado**
 
-• ½ litro de leite;
-• 1 colher de café de noz-moscada;
-• 1 pitada de pimenta do reino;
-• ½ xícara de chá de queijo parmesão ralado.
+- ½ litro de leite;
+- 1 colher de café de noz-moscada;
+- 1 pitada de pimenta do reino;
+- ½ xícara de chá de queijo parmesão ralado.
 
 Ferva o leite como de costume, assim que levantar fervura, acrescente o queijo ralado, a noz-moscada e a pimenta do reino.
 
