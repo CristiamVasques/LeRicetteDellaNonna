@@ -14,7 +14,7 @@
 
 **Modo de preparo**
 
-Pique a banana e o morango. Transfira para dentro de um saco plástico e leve para congelar de um dia para o outro;
+Pique a banana e o morango. Transfira para dentro de um saco plástico e leve para congelar de um dia para o outro.
 
 Descasque o inhame e leve para cozinhar até ficarem bem macios. Quanto mais macio, mais cremoso o seu danoninho ficará.
 
