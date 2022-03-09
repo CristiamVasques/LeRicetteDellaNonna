@@ -6,11 +6,11 @@
 
 **Ingredientes**
 
-- 250g de inhames picados, sem casca (+/- 2 unidades médias)
-- 1 banana pequena e madura
-- 250g de morangos lavados e picados
-- 1 lata de leite condensado
-- 1 colher (sopa) de suco de limão
+- 250g de inhames picados, sem casca (+/- 2 unidades médias);
+- 1 banana pequena e madura;
+- 250g de morangos lavados e picados;
+- 1 lata de leite condensado;
+- 1 colher (sopa) de suco de limão.
 
 **Modo de preparo**
 
