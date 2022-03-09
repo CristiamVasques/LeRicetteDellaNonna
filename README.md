@@ -6,7 +6,8 @@ Inspirado por uma aula super interessante do professor [Otávio Reis Perkles](ht
 
 Dolce :cake:
 
-- [**La delicatezza della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/LaDelicatezzaDellaNonna.md):yum:
+* [**Danoninho della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/DanoninhoDellaNonna.md):yum:
+* [**La delicatezza della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/LaDelicatezzaDellaNonna.md):yum:
 
 Pasta :spaghetti:
 
