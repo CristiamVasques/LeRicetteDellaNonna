@@ -22,5 +22,5 @@ Em um processador ou liquidificador “potente”, junte os inhames cozidos, a b
 
 Transfira para uma vasilha com tampa e leve à geladeira até ficar bem gelado, o que pode levar mais ou menos 4 horas.
 
-Está pronto! Um danone natural sem açúcar, sem corantes e conservantes, nutritivo e funcional! Você pode adoça-lo com melado, açúcar mascavo, de coco… Ao invés de usar o morango, pode fazer esta receita com sabor de banana, maracujá, manga, mamão ou pode também adicionar um pouco de leite de coco
+Está pronto! Um danone natural sem açúcar, sem corantes e conservantes, nutritivo e funcional! Você pode adoça-lo com melado, açúcar mascavo, de coco… Ao invés de usar o morango, pode fazer esta receita com sabor de banana, maracujá, manga, mamão ou pode também adicionar um pouco de leite de coco.
 
