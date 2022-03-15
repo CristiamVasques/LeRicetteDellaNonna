@@ -17,5 +17,6 @@ Salsa :tomato:
 
 * [**Salsa della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/SalsaDellaNonna.md):tomato:
 
-  
+Patè:bowl_with_spoon::bread:
 
+- [**Patè di ceci della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/PatèDiCeciDellaNonna.md):bowl_with_spoon:

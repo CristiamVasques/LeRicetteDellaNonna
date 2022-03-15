@@ -1,5 +1,9 @@
 # Danoninho Della Nonna
 
+<div align="left">
+    ![image](https://user-images.githubusercontent.com/75401750/158369692-b068110d-02d5-46f4-9744-28141f4e8594.png)
+</div>
+
 * Preparo: 10 minutos
 * Preparação: 5 minutos
 * Rendimento: 6 porções
