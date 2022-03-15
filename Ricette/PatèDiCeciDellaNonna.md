@@ -1,8 +1,8 @@
 # Patè di ceci Della Nonna
 
-<div align="left">
-    ![image](https://user-images.githubusercontent.com/75401750/158369741-470884b7-2e22-451e-8f80-8da041bafc77.png)
-</div>
+
+![image](https://user-images.githubusercontent.com/75401750/158369741-470884b7-2e22-451e-8f80-8da041bafc77.png)
+
 
 * Preparo: 10 minutos
 * Preparação: 5 minutos
