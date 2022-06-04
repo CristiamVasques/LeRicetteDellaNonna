@@ -23,6 +23,4 @@ Salsa :tomato:
 
 Zuppe:bowl_with_spoon::bread:
 
-- [**Patè di ceci della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/PatèDiCeciDellaNonna.md):bowl_with_spoon:
-
 - [**Zuppa tradizionale paraguaiana della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/ZuppaTradizionaleParaguaianaDellaNonna.md):bowl_with_spoon:
