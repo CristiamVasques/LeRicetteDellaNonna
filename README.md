@@ -13,10 +13,16 @@ Pasta :spaghetti:
 
 * [**Lasagna della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/LasagnaDellaNonna.md):yum:
 
+Patè:bowl_with_spoon::bread:
+
+- [**Patè di ceci della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/PatèDiCeciDellaNonna.md):bowl_with_spoon:
+
 Salsa :tomato:
 
 * [**Salsa della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/SalsaDellaNonna.md):tomato:
 
-Patè:bowl_with_spoon::bread:
+Zuppe:bowl_with_spoon::bread:
 
 - [**Patè di ceci della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/PatèDiCeciDellaNonna.md):bowl_with_spoon:
+
+- [**Zuppa tradizionale paraguaiana della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/ZuppaTradizionaleParaguaianaDellaNonna.md):bowl_with_spoon:
