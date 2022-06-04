@@ -16,6 +16,7 @@ Pasta :spaghetti:
 Patè:bowl_with_spoon::bread:
 
 - [**Patè di ceci della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/PatèDiCeciDellaNonna.md):bowl_with_spoon:
+- [**Patè di pollo della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/PatèDiPolloDellaNonna.md):bowl_with_spoon::chicken:
 
 Salsa :tomato:
 
