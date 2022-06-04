@@ -1,5 +1,7 @@
 # La Delicatezza Della Nonna
 
+![image](https://user-images.githubusercontent.com/75401750/171997590-1e1a1b86-4ecf-43e1-a0b4-0d78581157c0.png)
+
 **Ingredientes**
 
 - 1 litro de leite

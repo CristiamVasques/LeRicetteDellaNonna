@@ -1,5 +1,7 @@
 # Lasagna Della Nonna
 
+![image](https://user-images.githubusercontent.com/75401750/171997565-d1c5e5cc-2ad4-4d8e-b672-6b476ae73122.png)
+
 **Ingredientes**
 
 - 1 pacote de massa para lasanha pré-cozida;
