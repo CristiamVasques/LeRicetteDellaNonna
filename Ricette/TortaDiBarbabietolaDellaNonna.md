@@ -36,4 +36,4 @@
 - Deixar ferver até encorpar. 
 - Colocar a cobertura sobre o bolo ainda quente.
 
-*Rendimento: 20 porções de 40g
+*Rendimento: 20 porções de 40g*
