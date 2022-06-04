@@ -8,7 +8,7 @@
 
 *O principal AMOR*
 
-- Quilo de peito de frango
+- 1 Quilo de peito de frango
 - 1 pote de maionese
 - 3 cenouras raladas
 - Temperos à gosto, sal, cheiro verde...
