@@ -6,7 +6,7 @@ Inspirado por uma aula super interessante do professor [Otávio Reis Perkles](ht
 
 Você deve estar se perguntando: Qual a melhor receita da vovó Mercedes?
 
-A resposta é Lasagna della Nonna.
+A resposta é [**Lasagna della Nonna**](https://github.com/CristiamVasques/LeRicetteDellaNonna/tree/main/Ricette/LasagnaDellaNonna.md).
 
 Buon appetito!
 
