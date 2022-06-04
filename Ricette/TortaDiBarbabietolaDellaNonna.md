@@ -29,3 +29,11 @@
 - Adicionar a farinha de trigo peneirada. 
 - Por último, coloque as claras em neve e o fermento. 
 - Assar em forno médio 180ºC, por cerca de 30 minutos. 
+
+**Modo de preparo - cobertura**
+ 
+- Derreter a manteiga, juntar o chocolate, o açúcar e, por último, o leite. 
+- Deixar ferver até encorpar. 
+- Colocar a cobertura sobre o bolo ainda quente.
+
+*Rendimento: 20 porções de 40g
