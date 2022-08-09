@@ -1,5 +1,7 @@
 # Salsa Della Nonna
 
+![image](https://user-images.githubusercontent.com/75401750/183556606-22cb0a34-c4cb-45e4-a967-01b3d53533c4.png)
+
 **Ingredientes**
 
 - 1 kg de tomates frescos e maduros;
