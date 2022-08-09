@@ -50,5 +50,5 @@ A cebola roxa poderá ser substituída pela branca.
 
 Não faça o molho muito denso e não exagere no sal.
 
-Não utilize o liquidificador para não deixar o molho cor rosa e espumoso.
+Não utilize o liquidificador para não deixar o molho cor de rosa e espumoso.
 
